@@ -1,4 +1,3 @@
-# MalabonDay
-Register A Date and Add It To The SetupMalabonDay Function
+## MalabonDay\
 
-NOTE: The Extension Has A Error With The SetupMalabonDay It Will Be Updated in V2 😀.
+An App Inventor 2 extension created using Rush.
